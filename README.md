@@ -1,1 +1,2 @@
 # FinanceTracker
+## Лицензия
